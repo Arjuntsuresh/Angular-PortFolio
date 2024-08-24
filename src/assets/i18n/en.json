@@ -1,0 +1,143 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "Resume-Arjun TS MEAN Stack.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have <span class='underline'>1.5 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, NodeJS and ExpressJS</span> and sometimes in <span class='underline'>c#</span> applying good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>1.5 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NestJs, MongoDB and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Brototype",
+            "Title": "MEAN Stack developer",
+            "Date": "March 2023 - Present",
+            "Description": [
+                "Developed and maintained a web-based application using Angular, Node.js, and MongoDB, resulting in improved user experience and increased performance.",
+                "Designed and implemented RESTful APIs to support multiple applications, using Node.js and Express.",
+               "Developed a real-time e-commerce website using Node.js, integrating Twilio for customer communication and Razorpay for secure payment processing, enhancing customer engagement and transaction efficiency.",
+                "Implementation of continuous integration and daily backups.",
+               "Developed multiple projects using Angular, Node.js, and MongoDB, delivering robust and scalable web applications.",
+                "Planning meetings in reports."
+            ]
+        }
+        
+   
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "AuthGuardian",
+            "Description":"AuthGuardian is a next-generation authentication app built from scratch using Angular and NgRx. The platform features a robust auth module with JWT token support, <span class='underline'>state management</span>, <span class='underline'>secure user management</span>, and a <span class='underline'>configurable permissions system</span> for enhanced security and user experience.",
+            "imgs": [
+                "assets/images/school/image1.png",
+                "assets/images/school/image2.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "NGRX",
+                "SASS",
+                "Angular Material",
+                "RxJS",
+                "TypeScript"
+            ]
+        },
+        {
+            "Title": "Tirex",
+            "Description": "Tirex is a next-generation e-commerce website built from scratch, designed for purchasing premium bicycles. The platform features an auth module, <span class='underline'>configurable product display options</span>, <span class='underline'>advanced user management</span>, and a <span class='underline'>feedback system</span> for personalized shopping experiences.",
+            "imgs": [
+                "assets/images/bbm/image1.png",
+                "assets/images/bbm/image2.png"
+            ],
+            "Technologies": [
+                "HTML",
+                "CSS",
+                "NodeJS",
+                "ExpressJS",
+                "MongoDB",
+                "Twilio",
+                "Razorpay"
+            ]
+        },
+        {
+            "Title": "EasyPassportal",
+            "Description": "EasyPassPortal is a passport management system with a robust admin panel that facilitates police verification and live tracking of applications. It simplifies the management of passport processes, providing real-time monitoring and efficient handling of verification tasks.",
+            "imgs": [
+                "assets/images/mazhr/image1.png",
+                 "assets/images/mazhr/needle.png"
+            ],
+            "Technologies": [
+                "HTML",
+                "cSS",
+                ".NET Core",
+                "MSSQL",
+                "IIS"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Netflix Clone",
+            "Description": "NetflixClone is an Angular-based web app that mimics Netflix. Using third-party APIs, it displays a range of movies and TV shows, including ratings, descriptions, and media content. Users can browse and search through a vast library, offering a Netflix-like streaming experience.",
+            "ghLink": "https://github.com/Arjuntsuresh/netflix-angular-.git",
+            "demoLink": "https://github.com/Arjuntsuresh/netflix-angular-.git",
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "APIBuilder: ASP.NET Web API Practice",
+            "Description": "APIBuilder: A side project for creating and managing APIs using ASP.NET Web API and Swagger UI.",
+            "ghLink": "https://github.com/Arjuntsuresh/ASP.NET-Web-API.git",
+            "demoLink": "https://github.com/Arjuntsuresh/ASP.NET-Web-API.git",
+            "Technologies": [
+                ".NET Core",
+                "ASP.NET Web API",
+                "SQLClient",
+                "Swagger"
+            ]
+        },
+        {
+            "Title": "3DAnimator: Interactive 3D Animation with JavaScript",
+            "Description": "Created a 3D animated application using JavaScript, featuring a minimalist design and interactive animations.",
+            "ghLink": "https://github.com/Arjuntsuresh/3d-animation-using-js.git",
+            "demoLink": "https://github.com/Arjuntsuresh/3d-animation-using-js.git",
+            "Technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "Title": "JWT Integration",
+            "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
+            "ghLink": "https://github.com/Arjuntsuresh/UserAuth_using_Angular_and_Nodejs.git",
+            "demoLink": "https://github.com/Arjuntsuresh/UserAuth_using_Angular_and_Nodejs.git",
+            "Technologies": [
+                "Angular",
+                "JWT",
+                "ExpressJS",
+                "NodeJS",
+                "MongoDB",
+                "TypeScript"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
