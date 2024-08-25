@@ -19,7 +19,7 @@ export class AppComponent implements OnInit {
   }
   ngOnInit(): void {
 
-    this.languageService.initLanguage()
+    this.languageService.initLanguage();
 
     this.titleService.setTitle("Arjun Suresh | MEAN Stack Developer | Software Engineer");
     this.metaService.addTags([
