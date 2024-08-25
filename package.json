@@ -55,5 +55,9 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~4.5.5"
-  }
+  },
+  "description": "I have 3 years of experience developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in `Angular, React, NodeJS and ExpressJS and sometimes in Python` applying good practices and development standards.",
+  "main": "karma.conf.js",
+  "author": "",
+  "license": "ISC"
 }
