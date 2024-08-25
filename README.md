@@ -1,5 +1,9 @@
 # Arjun Suresh-Portfolio 
+<<<<<<< HEAD
 I have 1.5 years of experience developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in `Angular, React, NodeJS and ExpressJS and sometimes in Python` applying good practices and development standards.
+=======
+I have 3 years of experience developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in `Angular, NodeJS and ExpressJS and sometimes in Python` applying good practices and development standards.
+>>>>>>> da0d029d4c23fac1abe1e31cdddc5039c5876a65
 
 Click the link below to open my portfolio.
 <https://arjuntsuresh.github.io/Angular-PortFolio/> 
