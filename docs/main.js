@@ -1,5 +1,5 @@
 "use strict";
-(self["webpackChunkmuffeez_portfolio"] = self["webpackChunkmuffeez_portfolio"] || []).push([["main"],{
+(self["webpackChunkarjunSuresh_portfolio"] = self["webpackChunkarjunSuresh_portfolio"] || []).push([["main"],{
 
 /***/ 809:
 /*!***************************************!*\
@@ -64,7 +64,7 @@ class AppComponent {
         this.titleService = titleService;
         this.metaService = metaService;
         this.languageService = languageService;
-        this.title = 'muffeez-portfolio';
+        this.title = 'arjunSuresh-portfolio';
     }
     ngOnInit() {
         this.languageService.initLanguage();
@@ -201,7 +201,7 @@ FooterComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_1__
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](12, "div", 7)(13, "a", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function FooterComponent_Template_a_click_13_listener() { return ctx.analyticsService.sendAnalyticEvent("click_github_portfolio_andresjose", "footer", "click"); });
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](14, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](15, "Built with Angular by Muffeez Khalid");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](15, "Built with Angular by arjunSuresh Khalid");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]()();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](16, "a", 9);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵlistener"]("click", function FooterComponent_Template_a_click_16_listener() { return ctx.analyticsService.sendAnalyticEvent("click_github_portfolio_brittany", "footer", "click"); });
@@ -677,7 +677,7 @@ BannerComponent.ɵcmp = /*@__PURE__*/ _angular_core__WEBPACK_IMPORTED_MODULE_1__
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "Hello! My name is");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]()();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](7, "div", 4)(8, "h2");
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](9, "Arjun Suresh.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](9, "arjunSuresh.");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](10, "h3");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](11, "MEAN Stack Developer");

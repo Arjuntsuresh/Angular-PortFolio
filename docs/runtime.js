@@ -150,7 +150,7 @@
 /******/ 			return __webpack_require__.O(result);
 /******/ 		}
 /******/ 		
-/******/ 		var chunkLoadingGlobal = self["webpackChunkmuffeez_portfolio"] = self["webpackChunkmuffeez_portfolio"] || [];
+/******/ 		var chunkLoadingGlobal = self["webpackChunkarjunSuresh_portfolio"] = self["webpackChunkarjunSuresh_portfolio"] || [];
 /******/ 		chunkLoadingGlobal.forEach(webpackJsonpCallback.bind(null, 0));
 /******/ 		chunkLoadingGlobal.push = webpackJsonpCallback.bind(null, chunkLoadingGlobal.push.bind(chunkLoadingGlobal));
 /******/ 	})();
